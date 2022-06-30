@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mysticnetv4r.
 - 👀 I’m interested in Web & Desktop Development
-- 🌱 I’m currently learning C++, JS/Node.ks..
+- 🌱 I’m currently learning C++, JS/Node.js..
